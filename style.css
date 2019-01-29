@@ -1,0 +1,47 @@
+body {
+  background-color: grey;
+  font-size: 20px;
+  line-height: 30px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1,h2 {
+  color: brown;
+  font-family: sans-serif;
+}
+
+a {
+  color: blue;
+
+}
+a:hover {
+  transition: width 5s;
+  color:green;
+  font-size: 40px;
+  text-decoration: underline blue;
+}
+.container {
+  width: 500px;
+  margin: 0 auto;
+}
+
+.card {
+  background-color: white;
+  text-align: center;
+  border: solid;
+}
+
+.image-p {
+  border-radius: 125px;
+  margin-top: 10px;
+}
+
+.links {
+
+}
+
+
+
+
+
+
